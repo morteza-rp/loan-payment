@@ -1,0 +1,2 @@
+credit.policy,purpose,int.rate,installment,log.annual.inc,dti,fico,days.with.cr.line,revol.bal,revol.util,inq.last.6mths,delinq.2yrs,pub.rec
+1,debt_consolidation,0.13,250,11.7,8,660,4298,5122,18.5,2,1,0
